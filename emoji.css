@@ -1,0 +1,52 @@
+.container1{
+    background-color: rgb(102, 231, 90);
+    padding: 20px;
+    margin: 20px 600px 70px 600px ;
+    border-radius: 80px;
+    text-align: center;
+
+    button{
+    background-color: rgb(30, 199, 92);
+    border-radius: 10px;
+    padding: 20px;
+    }
+    h1{
+        color: rgb(190, 97, 47);
+    }
+}
+.container2{
+    background-color: rgb(196, 221, 29);
+    padding: 20px;
+    margin: 20px 600px 70px 600px ;
+    border-radius: 80px;
+    text-align: center;
+
+    button{
+    background-color: rgb(177, 226, 53);
+    border-radius: 10px;
+    padding: 20px;
+    }
+    h1{
+        color: rgb(190, 97, 47);
+    }
+    h3{
+        color: black;
+    }
+}
+.container3{
+    background-color: rgb(184, 212, 227);
+    padding: 20px;
+    margin: 20px 600px 70px 600px ;
+    border-radius: 80px;
+    text-align: center;
+
+    button{
+    background-color: rgb(72, 177, 226);
+    border-radius: 10px;
+    padding: 20px;
+    }
+    h1{
+        color: rgb(190, 97, 47);
+    }
+    
+}
